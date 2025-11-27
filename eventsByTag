@@ -1,3 +1,5 @@
+In this example, there are 2 events, with 2 markets for each event.
+
 {
   "events": [
     {
